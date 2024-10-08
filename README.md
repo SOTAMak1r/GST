@@ -1,6 +1,6 @@
 # Generative Spatial Transformer (GST)
 
-Implementation of GST from <a><i>Where Am I and What Will I See</i> : An Auto-Regressive Model for Spatial Localization and View Prediction</a> in Pytorch.
+Implementation of GST from <a href="https://sotamak1r.github.io/gst/"><i>Where Am I and What Will I See</i> : An Auto-Regressive Model for Spatial Localization and View Prediction</a> in Pytorch.
 
 
 <div align="center">
