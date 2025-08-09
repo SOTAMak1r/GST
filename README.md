@@ -106,5 +106,4 @@ If our work assists your research, feel free to give us a star ⭐ or cite us us
 
 We would like to express our gratitude to the contributors of the codebase provided by <a href="https://github.com/FoundationVision/LlamaGen">LlamaGen</a>, 
 which served as the foundation for our work. 
-Additionally, we acknowledge the valuable insights drawn from the works of B and C, which significantly influenced the direction of our research. 
 Special thanks are extended to the pioneering contributions of <a href="https://github.com/cvlab-columbia/zero123">Zero123</a>, <a href="https://github.com/kylesargent/zeronvs">ZeroNVS</a> and <a href="https://github.com/jasonyzhang/RayDiffusion">RayDiffusion</a> within the field, which have enriched our understanding and inspired our endeavors.
